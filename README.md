@@ -42,4 +42,7 @@ wiat proccess//
 **run**
 
  HERE WE ARE DONE OF CREATING A VIRUS ALL U NEED TO WAIT THE VICTIM TO CLICK ON THE APK  OR EXE FILE
+ Tip 
+ you can merge yout exe file in a photo to prevent windows defentyer detect the virus , or merge it by the way you like it
 
+Happy hacking , Good luck friend
