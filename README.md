@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------
 Welcome everyone
 
-This tool is for educational purposes only, and our goal is not to make people victims or cause any kind of e not responsible for any damages due to improper use
+This tool is for educational purposes only, and our goal is not to make people victims or cause any kind of danger we are not responsible for any damages due to improper use
 
 
 # [+]About
