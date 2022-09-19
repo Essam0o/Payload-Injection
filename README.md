@@ -52,6 +52,7 @@ wiat proccess//
  Tip 
  
  
- you can merge yout exe file in a photo to prevent windows defenter detect the virus , or merge it by the way you like it
+ you can merge your exe file in a photo to prevent windows defenter detect the virus , or merge it by the way you like it
 
-Happy hacking , Good luck friend
+
+~Happy Hacking-Good luck
